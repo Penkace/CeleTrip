@@ -73,3 +73,13 @@ Please cite our paper if you find this code useful for your research:
   year={2024}
 }
 ```
+
+You can follow the work from our team [here](https://github.com/ZhangDataLab/COSMOS), which has accepted by ICWSM'25
+```
+@article{zhang2024paths,
+  title={Paths of A Million People: Extracting Life Trajectories from Wikipedia},
+  author={Zhang, Ying and Li, Xiaofeng and Liu, Zhaoyang and Zhang, Haipeng},
+  journal={arXiv preprint arXiv:2406.00032},
+  year={2024}
+}
+```
